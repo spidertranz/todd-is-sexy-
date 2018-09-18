@@ -1,0 +1,11 @@
+<html>
+<head>
+</head>
+<body>
+<button onClick="something()"> You really don't want to push this button </button>
+<script>
+function something() {
+confirm("https://www.youtube.com/watch?v=kffacxfA7G4");}
+</script>
+</body>
+</html>
